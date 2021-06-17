@@ -63,7 +63,7 @@ color: #777777;
 
  }
 
-@media (min-width: 411px) {
+@media (max-width: 470px) {
     
     .fas {
         cursor: pointer;
