@@ -63,7 +63,7 @@ color: #777777;
 
  }
 
- @media (max-width: 470px) {
+ @media (min-width: 767px) {
     .fas {
         cursor: pointer;
         font-size: 20px;
@@ -107,7 +107,7 @@ color: #777777;
     }
  }
 
- @media (max-width: 1024px) {
+ @media (min-width: 1024px) {
     .header{
         display: none;
     }
